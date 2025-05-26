@@ -69,7 +69,3 @@ This project is great for practicing:
 * Working with 2D arrays (matrices)
 * Sudoku rules enforcement logic
 
-## 🤖 Author
-
-**Tayyeba Ali**
-GitHub: [@tayyeba-ali](https://github.com/tayyeba-ali)
