@@ -65,7 +65,7 @@ README.md
 
 ## 👩‍💻 Author
 
-**Tayyeba Ali**
+**Tayyaba Shahid**
 A passionate Python developer creating engaging projects to learn and grow. 😊
 
 ---
